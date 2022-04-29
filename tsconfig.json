@@ -1,0 +1,16 @@
+{
+  "extends": "@tsconfig/node16/tsconfig.json",
+  "ts-node": {
+    "files": true,
+    "transpileOnly": true,
+    "compilerOptions": {
+      "sourceMap": true
+    }
+  },
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  }
+}
