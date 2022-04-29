@@ -1,4 +1,6 @@
-# TS-node
+# Ts Node Jest Recipe
+
+The recipe of setup ts-node, jest, for vscode, debug.
 
 <https://typestrong.org/ts-node/docs/options>
 
